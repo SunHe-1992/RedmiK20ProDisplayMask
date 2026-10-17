@@ -1,0 +1,6 @@
+id=k20pro-display-mask
+name=Redmi K20 Pro Display Mask
+version=1.0
+versionCode=1
+author=Local
+description=Uses 1044x2340 logical display with scaling disabled to leave the damaged right edge unused.

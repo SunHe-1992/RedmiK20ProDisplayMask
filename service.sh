@@ -3,5 +3,5 @@
 until [ "$(getprop sys.boot_completed)" = 1 ]; do
   sleep 2
 done
-wm size 1044x2340
+wm size 1020x2340
 wm scaling off
